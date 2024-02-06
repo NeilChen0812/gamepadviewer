@@ -1,7 +1,7 @@
 .controller.custom{
     background-image: url(base.svg);
-    height: 692px;
-    width: 758px;
+    height: 692;
+    width: 758;
 }
 
 .custom.disconnected {
