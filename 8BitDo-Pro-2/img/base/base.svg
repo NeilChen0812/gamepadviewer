@@ -34,7 +34,7 @@
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer11"
      inkscape:lockguides="false"
      inkscape:showpageshadow="0"
      inkscape:deskcolor="#505050"
@@ -447,25 +447,6 @@
            id="path5039" />
       </g>
     </g>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer10"
-     inkscape:label="trigger"
-     transform="translate(-41.393108,-65.967602)"
-     style="display:inline">
-    <path
-       style="fill:#8e9192;fill-opacity:1;stroke:#4b4f52;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 59.217256,84.186307 H 79.23566 c 0,0 0.943414,-0.295048 0.943414,-1.634038 0,-1.338993 -2.727232,-16.550997 -10.060707,-16.451895 -7.333474,0.0991 -11.396614,9.761448 -11.396614,9.761448 0,0 -4.156679,8.741295 0.495503,8.324485 z"
-       id="path23787"
-       sodipodi:nodetypes="ccsscc"
-       inkscape:label="LT" />
-    <path
-       style="display:inline;fill:#8e9192;fill-opacity:1;stroke:#4b4f52;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 144.4869,84.186705 h -20.01841 c 0,0 -0.94341,-0.295048 -0.94341,-1.634038 0,-1.338993 2.72723,-16.550997 10.06071,-16.451895 7.33347,0.0991 11.39661,9.761448 11.39661,9.761448 0,0 4.15668,8.741295 -0.4955,8.324485 z"
-       id="path23787-7"
-       sodipodi:nodetypes="ccsscc"
-       inkscape:label="RT" />
   </g>
   <g
      inkscape:groupmode="layer"
