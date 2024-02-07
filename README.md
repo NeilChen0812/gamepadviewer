@@ -1,6 +1,6 @@
-# Links for gamepadviewer styles
+# Links for gamepadviewer skins
 
-## Styles
+## Skins
 
 ### 8BitDo
 
@@ -15,6 +15,10 @@
 
 ### PlayStation
 
+- [**PlayStation 5** (White)](https://gamepadviewer.com/?p=1&s=5&editcss=https%3A%2F%2Fjustehcupcake.github.io%2FPS5_Display_Pics%2FPS5_White.css)
+- [**PlayStation 5** (White) (V2)](https://gamepadviewer.com/?p=1&s=5&editcss=https%3A%2F%2Fjustehcupcake.github.io%2FPS5_Display_Pics%2FPS5_Classic.css)
+- [**PlayStation 5** (Black)](https://gamepadviewer.com/?p=1&s=5&editcss=https%3A%2F%2Fjustehcupcake.github.io%2FPS5_Display_Pics%2FPS5_Classic_Black.css)
+- [**PlayStation 5** (Black) (V2)](https://gamepadviewer.com/?p=1&s=5&editcss=https%3A%2F%2Fjustehcupcake.github.io%2FPS5_Display_Pics%2FPS5_Black.css)
 - [**PlayStation 4** (White)](https://app.gpv.gg/?s=8&nocurve=1&p=1)
 - [**PlayStation 4** (Black)](https://app.gpv.gg/?s=5&nocurve=1&p=1)
 - [**PlayStation 3** (White)](https://app.gpv.gg/?s=10&nocurve=1&p=1)
@@ -41,3 +45,11 @@
 ## Credits
 
 - `8BitDo SN30 Pro 2` images based on the work of [**JotaGo**](https://gist.github.com/JotaGo/84e9c728a259d4b40e9fe969ae1aec00)
+- `8BitDo SN30 Pro 2` styles made by [**NeilChen0812**](https://github.com/NeilChen0812)
+- `PlayStation 5` styles made by [**justEhCupcake**](https://github.com/justEhCupcake/justEhCupcake.github.io)
+
+## Recommend Links
+
+- [**Gamepad Viewer**](https://gamepadviewer.com/)
+- [**Gamepad Viewer (Beta)**](https://beta.gamepadviewer.com/)
+- Many free and paid skin in [**Jayraydee.me**](https://jayraydee.me/#free):
