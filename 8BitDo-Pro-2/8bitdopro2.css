@@ -1,5 +1,6 @@
 .controller.custom{
     background-image: url(base.svg);
+    background-size: cover;
     height: 692px;
     width: 758px;
 }
