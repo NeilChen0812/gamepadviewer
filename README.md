@@ -48,8 +48,8 @@
 - `8BitDo SN30 Pro 2` styles made by [**NeilChen0812**](https://github.com/NeilChen0812/gamepadviewer/tree/main/8BitDo-Pro-2)
 - `PlayStation 5` styles made by [**justEhCupcake**](https://github.com/justEhCupcake/justEhCupcake.github.io/tree/main/PS5_Display_Pics)
 
-## Recommend Links
+## Relevant links
 
 - [**Gamepad Viewer**](https://gamepadviewer.com/)
 - [**Gamepad Viewer Beta**](https://beta.gamepadviewer.com/)
-- Many free and paid skin in [**Jayraydee.me**](https://jayraydee.me/#free)
+- Many free and paid skin in [**Jayraydee.me**](https://jayraydee.me)
